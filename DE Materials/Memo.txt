@@ -1,1 +1,5 @@
+Tutorial Materials for tutorial 1,3,5,7,9 (in total 10), collaborated with Guanru Li, and instructed by Professor Peng Zeng.
 
+These slides was made with the help of LLMs in .tex, referenced the lecture notes from Professor Kunpeng Wang, Professor Peng Zeng and the textbook Differential Equations With Boundary-Value Problems (seventh edition).  
+
+If you are interested in the source code, welcome to contact yuchaojia82@gmail.com
