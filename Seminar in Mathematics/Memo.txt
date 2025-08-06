@@ -4,4 +4,7 @@
 # Grateful for the support from SCUPI and our supervisers Professor Zheng Yang, Professor Peng Zeng and Professor Kunpeng Wang.
 
 # Welcome to JOIN US
-# Contact yuchaojia82@gmail.com if interested
+# Contact yuchaojia82@gmail.com if you are interested in
+
+- 'Boolean Equations.pdf'
+📝 These slides discuss the basic concepts and techniques for solving Boolean equations from a set theory perspective. It was planned for an indiviual session in Seminar but eventually integrated in Seminar 1 Equations: The Hidden Language of the Universe.
