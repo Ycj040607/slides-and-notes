@@ -7,7 +7,10 @@
 # Contact yuchaojia82@gmail.com if you are interested in this acativity.
 
 - 'welcome_version_2.pdf'
-📝 It is the opening of Seminar 0.
+📝 It is the opening slides for Seminar 0.
 
 - 'Boolean Equations.pdf'
 📝 These slides discuss the basic concepts and techniques for solving Boolean equations from a set theory perspective. It was planned for an indiviual session in Seminar but eventually integrated in Seminar 1 Equations: The Hidden Language of the Universe.
+
+- 'eq.pdf'
+📝 It is the lead-in for Seminar 1. The whole session was done mostly on the whiteboard. 
