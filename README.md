@@ -9,4 +9,4 @@ For MATH0290 Differential Equations, the course starts from the very beginning o
 
 Serving as the host and speaker for "Seminar in Mathematics". Relevant materials are uploaded for record and reference.
 
-Serving as a (pseudo-) research assistant.
+Wish to be a pure mathematician contributes to theoretical computer science. Wish to know the secrets of INTELLIGENCE.
